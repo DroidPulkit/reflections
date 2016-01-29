@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When we initialize a respository we see that it has created a new respository in the current directory
+and we see it added .git to that directory.
+We need to do this cause then only it will be called git respository or else it will be same as normal directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is different as here we can preapare what files to commit together 
