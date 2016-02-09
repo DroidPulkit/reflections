@@ -28,3 +28,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 By merging two branches we add and delete some codes to final commit which the git automatically does
 and then it create a new commit where all the codes are integreated.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git is multi talented it can merge automatically as well as if some merge conflict occurs it let us do the
+mergeing manually then it adds >>>>>>>>>>>>>> <<<<<<<<<<<<<<<<< lines to file to show the conflict
