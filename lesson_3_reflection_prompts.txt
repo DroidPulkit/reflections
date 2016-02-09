@@ -5,3 +5,12 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Cause we might be working on some other previous version of project which is capable of your experiment and you don't want
 to mess up things
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is used to copy the respository on github
+Clone is used to copy the respository on loacal machine
+Branches are created to create a clone of master in order to add some new experimental features
+Use Fork to copy the same content on github
+Clone to copy on local machine
+New Branch when adding experimental features
