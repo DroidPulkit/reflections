@@ -19,3 +19,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It helps as I would be able to work with multiple people and come to know about changes made by them since i was offline for 
 that amount of time
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be so difficult as I will have to mail the other person to tell him about my changes and all
+it could create confusion and all nothing will be easier everything harder
