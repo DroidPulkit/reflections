@@ -14,3 +14,8 @@ Branches are created to create a clone of master in order to add some new experi
 Use Fork to copy the same content on github
 Clone to copy on local machine
 New Branch when adding experimental features
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It helps as I would be able to work with multiple people and come to know about changes made by them since i was offline for 
+that amount of time
